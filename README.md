@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo-day.png" alt="Stellisle Logo" width="105" />
+  <img src="assets/avatar-circle.png" alt="Stellisle Logo" width="105" />
 </p>
 
 <h1 align="center">Stellisle Releases</h1>
@@ -10,10 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="https://stellisle.app"><img src="https://img.shields.io/badge/Official_Site-stellisle.app-60243c?style=flat-square" alt="Website"></a> &nbsp;
-  <a href="https://discord.gg/9v5yT9kR"><img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a> &nbsp;
-  <a href="https://x.com/stellisle_app"><img src="https://img.shields.io/badge/X-@stellisle__app-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://stellisle.pages.dev"><img src="https://img.shields.io/badge/Official_Site-stellisle.pages.dev-60243c?style=flat-square" alt="Website"></a> &nbsp;
+  <a href="https://discord.gg/S7yy7Pxue"><img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a> &nbsp;
+  <a href="https://x.com/stellisle_app"><img src="https://img.shields.io/badge/X-@stellisle__app-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a> &nbsp;
+  <a href="https://bsky.app/profile/stellisle.bsky.social"><img src="https://img.shields.io/badge/Bluesky-@stellisle.bsky.social-0285FF?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky"></a>
   <br>
+  <a href="https://stellisle.itch.io/stellisle"><img src="https://img.shields.io/badge/itch.io-stellisle-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white" alt="itch.io"></a> &nbsp;
+  <a href="https://www.reddit.com/user/stellisle/"><img src="https://img.shields.io/badge/Reddit-u/stellisle-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit"></a> &nbsp;
   <a href="https://github.com/stellisle-app/stellisle-releases/releases"><img src="https://img.shields.io/badge/Platform-macOS_14+_Sonoma_|_15+_Sequoia-2c3e50?style=flat-square" alt="Platform"></a> &nbsp;
   <a href="https://github.com/stellisle-app/stellisle-releases"><img src="https://img.shields.io/badge/Architecture-Apple_Silicon_(M1–M4)-34495e?style=flat-square" alt="Architecture"></a>
 </p>
@@ -103,16 +106,26 @@ Compare the resulting hash with the published value in the release notes to conf
 
 | Channel | Identifier | Purpose | Distribution Target |
 | :--- | :--- | :--- | :--- |
-| **Stable** | `vX.Y.Z` | Recommended production releases tested across macOS 14 and 15. | GitHub Releases & [stellisle.app](https://stellisle.app) |
+| **Stable** | `vX.Y.Z` | Recommended production releases tested across macOS 14 and 15. | GitHub Releases & [stellisle.pages.dev](https://stellisle.pages.dev) |
 | **Preview** | `vX.Y.Z-rc.*` | Pre-release builds containing newly ported neural backends and audio models. | GitHub Releases (Tagged Pre-release) |
 
 ---
 
-## Feedback, Support & Community
+## Feedback, Support & Official Channels
 
-- **Interactive Feedback Desk**: Visit [stellisle.app/feedback.html](https://stellisle.app/feedback.html) to submit bug reports and feature suggestions. Submissions receive an automated printout ticket and real-time delivery status.
-- **Discord Community**: Join our community server at [discord.gg/9v5yT9kR](https://discord.gg/9v5yT9kR) for installation discussion, hardware benchmarking, and voice model previews.
-- **Direct Developer Contact**: Inquiries regarding security, localization, or privacy can be addressed to `stellisle@proton.me`.
+| Channel | Identifier | Link | Description |
+| :--- | :--- | :--- | :--- |
+| **Official Web Portal** | `stellisle.pages.dev` | [Visit Portal](https://stellisle.pages.dev) | Interactive showcase, voice showroom, and web portal. |
+| **Feedback Desk** | `/feedback.html` | [Open Postbox](https://stellisle.pages.dev/feedback.html) | Direct-to-developer feedback with printed ticket receipts. |
+| **Updates & Field Notes** | `/updates.html` | [Read Notes](https://stellisle.pages.dev/updates.html) | Transparent development logs and release preparation. |
+| **Discord Sanctuary** | `Stellisle Official` | [Join Server](https://discord.gg/S7yy7Pxue) | Bilingual community discussion, keepsakes, and voice model previews. |
+| **X (Twitter)** | `@stellisle_app` | [Follow @stellisle_app](https://x.com/stellisle_app) | Official release announcements, product teasers, and changelog highlights. |
+| **Bluesky** | `@stellisle.bsky.social` | [Follow Bluesky](https://bsky.app/profile/stellisle.bsky.social) | Open decentralized social updates and dev logs. |
+| **itch.io** | `stellisle` | [View Project](https://stellisle.itch.io/stellisle) | Independent software showcase and community releases. |
+| **Reddit** | `u/stellisle` | [View Profile](https://www.reddit.com/user/stellisle/) | Discussions across r/LocalLLaMA and r/macapps. |
+| **Direct Contact** | `stellisle@proton.me` | [Email Us](mailto:stellisle@proton.me) | Inquiries regarding security disclosures, localization, or privacy. |
+
+<sub>Upcoming channels in verification: 小红书 (`知屿星信 Stellisle`), 即刻 (`知屿星信`), Bilibili (`知屿星信_Official`).</sub>
 
 ---
 
