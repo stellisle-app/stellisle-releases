@@ -90,6 +90,26 @@ Stellisle utilizes Apple Metal 3 shaders and ARM64-specific neural kernels. Inte
 4. Drag the `Stellisle.app` bundle into your macOS `/Applications` folder.
 5. Eject the disk image and launch Stellisle from Spotlight or Launchpad.
 
+### First Launch & macOS Gatekeeper Notice / 首次打开安全提示
+
+知屿星信采用纯本地推理架构，未配置云端遥测与外部开发者公证。在 macOS 14 (Sonoma) 或 macOS 15 (Sequoia) 首次打开时，系统可能会提示：“无法验证开发者”或“App 已损坏，无法打开”。这是 macOS Gatekeeper 对未签名开发版本的常规安全提示，软件本身完全正常，你可以通过以下任一方式解锁：
+
+#### 方式一：系统设置解锁（推荐 · 无需终端）
+1. 双击打开应用一次，系统弹出拦截窗口后点击“完成”或“好”。
+2. 打开 Mac 的 **系统设置 (System Settings)** → **隐私与安全性 (Privacy & Security)**。
+3. 向下滚动至 **安全性 (Security)** 区域，会看到提示：“已阻止使用「知屿星信」，因为来自身份不明的开发者”。
+4. 点击右侧的 **仍要打开 (Open Anyway)**，输入开机密码确认即可。
+
+#### 方式二：终端一行命令解除（最快捷）
+打开 **终端 (Terminal)**，复制并粘贴以下命令后按回车：
+
+```bash
+xattr -cr /Applications/知屿星信.app
+# 若安装包为英文名称：
+xattr -cr /Applications/Stellisle.app
+```
+完成后即可正常双击启动。
+
 ### Option 2: Binary Integrity Verification
 
 Every published `.dmg` file includes a corresponding SHA-256 checksum in its release assets. You can verify package integrity in Terminal:
