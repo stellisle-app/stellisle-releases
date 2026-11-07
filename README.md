@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stellisle-app/stellisle-website/main/public/assets/logo-day.png" alt="Stellisle Logo" width="110" />
+  <img src="https://raw.githubusercontent.com/stellisle-app/stellisle-app/main/assets/logo-day.png" alt="Stellisle Logo" width="110" />
 </p>
 
 <h1 align="center">Stellisle Releases</h1>
@@ -23,7 +23,7 @@
 Stellisle (知屿星信) is a native desktop companion built for macOS on Apple Silicon. It provides continuous conversational memory, localized vocal synthesis, and a peaceful presence on your desktop.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stellisle-app/stellisle-website/main/public/assets/starlight/starlight-symbol.png" alt="Starlight Symbol" width="130" />
+  <img src="https://raw.githubusercontent.com/stellisle-app/stellisle-app/main/assets/starlight-symbol.png" alt="Starlight Symbol" width="130" />
 </p>
 
 ### Key Capabilities
