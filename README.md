@@ -11,10 +11,11 @@
 
 <p align="center">
   <a href="https://stellisle.app"><img src="https://img.shields.io/badge/Official_Site-stellisle.app-60243c?style=flat-square" alt="Website"></a> &nbsp;
-  <a href="https://github.com/stellisle-app/stellisle-releases/releases"><img src="https://img.shields.io/badge/Platform-macOS_Sonoma_14+_|_Sequoia_15+-2c3e50?style=flat-square" alt="Platform"></a> &nbsp;
-  <a href="https://github.com/stellisle-app/stellisle-releases"><img src="https://img.shields.io/badge/Architecture-Apple_Silicon_(M1–M4)-34495e?style=flat-square" alt="Architecture"></a> &nbsp;
   <a href="https://discord.gg/9v5yT9kR"><img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a> &nbsp;
   <a href="https://x.com/stellisle_app"><img src="https://img.shields.io/badge/X-@stellisle__app-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <br>
+  <a href="https://github.com/stellisle-app/stellisle-releases/releases"><img src="https://img.shields.io/badge/Platform-macOS_14+_Sonoma_|_15+_Sequoia-2c3e50?style=flat-square" alt="Platform"></a> &nbsp;
+  <a href="https://github.com/stellisle-app/stellisle-releases"><img src="https://img.shields.io/badge/Architecture-Apple_Silicon_(M1–M4)-34495e?style=flat-square" alt="Architecture"></a>
 </p>
 
 ---
