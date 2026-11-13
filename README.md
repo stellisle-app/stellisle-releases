@@ -13,7 +13,9 @@
   <a href="https://stellisle.pages.dev"><img src="https://img.shields.io/badge/Official_Site-stellisle.pages.dev-60243c?style=flat-square" alt="Website"></a> &nbsp;
   <a href="https://discord.gg/S7yy7Pxue"><img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a> &nbsp;
   <a href="https://x.com/stellisle_app"><img src="https://img.shields.io/badge/X-@stellisle__app-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a> &nbsp;
-  <a href="https://bsky.app/profile/stellisle.bsky.social"><img src="https://img.shields.io/badge/Bluesky-@stellisle.bsky.social-0285FF?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky"></a>
+  <a href="https://bsky.app/profile/stellisle.bsky.social"><img src="https://img.shields.io/badge/Bluesky-@stellisle.bsky.social-0285FF?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky"></a> &nbsp;
+  <a href="https://www.producthunt.com/products/stellisle"><img src="https://img.shields.io/badge/Product_Hunt-Stellisle-FF6154?style=flat-square&logo=producthunt&logoColor=white" alt="Product Hunt"></a> &nbsp;
+  <a href="https://github.com/stellisle-app/stellisle-releases/discussions"><img src="https://img.shields.io/badge/Discussions-Join_Community-2ea44f?style=flat-square&logo=github&logoColor=white" alt="Discussions"></a>
   <br>
   <a href="https://stellisle.itch.io/stellisle"><img src="https://img.shields.io/badge/itch.io-stellisle-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white" alt="itch.io"></a> &nbsp;
   <a href="https://www.reddit.com/user/stellisle/"><img src="https://img.shields.io/badge/Reddit-u/stellisle-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit"></a> &nbsp;
